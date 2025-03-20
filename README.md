@@ -7,6 +7,8 @@ Here’s what it does:
 🖼️ Image Analysis: Leverages Microsoft’s GIT-base model to generate captions and answer questions about uploaded images.
 🗣️ Text-to-Speech: Converts text responses back into speech using Google’s gTTS.
 
+![Screenshot 2025-03-20 at 12 00 05 AM (2)](https://github.com/user-attachments/assets/5ac45ac0-e545-4348-93cf-8cf67dfd1dae)
+
 The system is built with Gradio for an intuitive user interface, allowing users to upload images, ask questions via voice, and receive both text and audio responses in under 2 seconds!
 
 This project was a fantastic opportunity to work under the guidance of Professor Justin and collaborate with 2 PhD students to integrate cutting-edge AI models like LLaVA and Whisper. It’s amazing to see how AI can bridge the gap between visual and auditory interactions, enabling natural language Q&A about visual content.
